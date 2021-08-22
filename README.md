@@ -2,5 +2,4 @@
 
 
 
-- Learning GitHub
-- Blablabla
+- Learning Git
