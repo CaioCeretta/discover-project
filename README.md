@@ -1,6 +1,3 @@
 
-
-
-
 - Learning GitHub
 - Blablabla
